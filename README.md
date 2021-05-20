@@ -21,9 +21,9 @@ These questions can help the company maximize their efficiency in saving money, 
 
 ![image](https://raw.githubusercontent.com/Andoson22/Customer-Churn-Data/main/Images/Ratio%20of%20Churn.png)
 
-Here we can see that our data has a minority imbalance, which makes sense because if we were losing a significant portion of the customers each period, there wouldn't be any services left to provide to people.
+#### DESCRIBE ABOVE
 
-Our most important features were total day minutes, total day charge, total eve minutes, total eve charge, total night minutes, total night charge.  Below we can see a pairplot of our features.
+#### DESCRIBE BELOW
 
 ![image](https://raw.githubusercontent.com/Andoson22/Customer-Churn-Data/main/Images/Features%20Pairplot.png)
 
