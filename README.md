@@ -26,7 +26,7 @@ Do we see any trends in the data that we can use to maximize ROI and minimize ri
 
 #### We can see the upward trend in the series above.
 
-#### Below we can see our model fitting the data as it takes in new points as 'history' and uses each point from the past to make future decisions ('predictions').
+#### Below we can see our model fitting the AMZN data as it takes in new points as 'history' and uses each point from the past to make future decisions ('predictions').
 
 ![image](https://raw.githubusercontent.com/Andoson22/FAANG-Stock-Insights-Projections/main/Images/AMZN%20Pred%20vs%20Exp.png)
 
