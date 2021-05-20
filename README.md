@@ -22,11 +22,13 @@ Do we see any trends in the data that we can use to maximize ROI and minimize ri
 
 #### Above is the seasonal_decompose of the AMZN stock closing price data.  There seems to be a cyclical trend in the data.  This must be removed in order to perform our desired modeling with ARIMA. (Data is assumed to be stationary.)
 
-![image](https://raw.githubusercontent.com/Andoson22/FAANG-Stock-Insights-Projections/main/Images/AMZN%20Pred%20vs%20Exp.png)
-
-#### DESCRIBE BELOW
-
 ![image](https://raw.githubusercontent.com/Andoson22/FAANG-Stock-Insights-Projections/main/Images/rollingmeanstdclose.png)
+
+#### We can see the upward trend in the series above.
+
+#### Below we can see our model fitting the data as it takes in new points as 'history' and uses each point from the past to make future decisions ('predictions').
+
+![image](https://raw.githubusercontent.com/Andoson22/FAANG-Stock-Insights-Projections/main/Images/AMZN%20Pred%20vs%20Exp.png)
 
 #### Recommendations
 1. Invest in any stocks that are currently on a downswing.  We should look at these stocks as if they are 'on sale' and we can get them for a cheaper price to maximize our return-on-invest for long term growth when we plan to hold.  These stocks have more potential for growth due to the overarching upward trend of the stocks selected mixed with the current low price and certainly prove to be a recipe for success.
