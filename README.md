@@ -17,8 +17,6 @@ Are there any obvious entry/exit points for stock positions?
 
 Do we see any trends in the data that we can use to maximize ROI and minimize risk?
 
-These questions can help the company maximize their efficiency in saving money, and are looked at in determining the best ways to prevent customer churn and promote customer retention.  A cornerstone business concept that holds true for almost any market is that it's much cheaper to keep current customers than to gain new ones.  This mantra allows us to maximize our efficiency when looking to spend money on customer retention, and allows us to not waste too much time or money trying to identify people who are likely to stay.
-
 ![image](https://raw.githubusercontent.com/Andoson22/Customer-Churn-Data/main/Images/Ratio%20of%20Churn.png)
 
 #### DESCRIBE ABOVE
