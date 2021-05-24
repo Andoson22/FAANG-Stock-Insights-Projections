@@ -28,7 +28,7 @@ Do we see any trends in the data that we can use to maximize ROI and minimize ri
 
 #### Below we can see our model fitting the AMZN data as it takes in new points as 'history' and uses each point from the past to make future decisions ('predictions').
 
-![image]()
+![image](https://raw.githubusercontent.com/Andoson22/FAANG-Stock-Insights-Projections/main/Images/ConfIntwithExpected.png)
 
 #### Recommendations
 1. Invest in any stocks that are currently on a downswing.  We should look at these stocks as if they are 'on sale' and we can get them for a cheaper price to maximize our return-on-invest for long term growth when we plan to hold.  These stocks have more potential for growth due to the overarching upward trend of the stocks selected mixed with the current low price and certainly prove to be a recipe for success.
