@@ -22,7 +22,7 @@ Do we see any trends in the data that we can use to maximize ROI and minimize ri
 
 #### Above is the seasonal_decompose of the AMZN stock closing price data.  There seems to be a cyclical trend in the data.  This must be removed in order to perform our desired modeling with ARIMA. (Data is assumed to be stationary.)
 
-![image](https://raw.githubusercontent.com/Andoson22/FAANG-Stock-Insights-Projections/main/Images/rollingmeanstdclose.png)
+![image]()
 
 #### We can see the upward trend in the series above.
 
