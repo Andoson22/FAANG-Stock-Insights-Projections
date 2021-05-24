@@ -37,9 +37,13 @@ Do we see any trends in the data that we can use to maximize ROI and minimize ri
 
 ## Conclusion
 
-To summarize our findings, we have identified that there seem to be no clear 'indicators' in the data that stick out, other than the overall upward trend/growth of the stock market as a whole.
+To summarize our findings, we have identified that there seem to be no clear 'lag indicators' in the data that stick out, other than the overall upward trend/growth of the stock market as a whole.  There was a non-significant but noticeable lag around quarterly/annual reporting periods.
+
+When looking to pick the safest stock to invest in of the FAANG group(i.e- safest but lowest reward), I recommend Apple as your go to pick (Projected Y2Y ROI of -2.7% to 19.7%).  If you're looking for the stock with the most upside from these 5, I recommend Facebook as the best option (Projected Y2Y ROI of -33.81% to 48.72%).
 
 Most of these stocks seem to rise and fall together, and the prices changes are highly correlated with one another.  This would suggest these stocks as a whole trend down and up together.  (Note- not sure if this is due to the natural markets, news cycle, etc.)
+
+I recommend to invest in a diversified portfolio of stocks, that include mostly safe options, but also some riskier/more rewarding options...bonus if the stock is currently on a downswing.  We should look at these stocks as if they are 'on sale' and we can get them for a cheaper price to maximize our return-on-invest for long term growth when we plan to hold.  These stocks have more potential for growth due to the overarching upward trend of the stocks selected mixed with the current low price and certainly prove to be a recipe for success.
 
 
 #### Future Work
